@@ -1,5 +1,5 @@
 cask 'vagrant' do
-  version '2.2.7'
+  version '1.9.5'
   sha256 '45472731bde1df0bf2e0e0cf1ee460e2851c920d8b7b8af939e41156515cf49c'
 
   # hashicorp.com/vagrant/ was verified as official when first introduced to the cask
